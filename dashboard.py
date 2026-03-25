@@ -7,7 +7,6 @@ import os
 import matplotlib
 matplotlib.use('Agg') 
 
-# Dashboard implementation..
 def generate_graphs(df):
     graphs = []
 
