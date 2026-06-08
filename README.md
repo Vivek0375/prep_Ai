@@ -80,21 +80,16 @@ PrepAI accepts datasets in multiple formats:
 
 ## ⚙️ Installation & Setup
 
-### 🔹 1. Clone the Repository
-
-git clone https://github.com/balajipatil27/prepai.git
-cd prepai
-
-### 🔹 2. Create Virtual Environment
+### 🔹 1. Create Virtual Environment
 
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 
-### 🔹 3. Install Dependencies
+### 🔹 2. Install Dependencies
 
 pip install -r requirements.txt
 
-### 🔹 4. Run Applications
+### 🔹 3. Run Applications
 
 python app.py
 
